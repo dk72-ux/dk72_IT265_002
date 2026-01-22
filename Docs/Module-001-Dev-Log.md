@@ -5,11 +5,11 @@
 ### Date: [01/22/2026]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
+<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate -->
+- [ ] Goal 1: Figure out what kind of game I want to make
 - [ ] Goal 2
 - [ ] Goal 3
--->
+
 
 #### Progress
 - **What I accomplished**:
