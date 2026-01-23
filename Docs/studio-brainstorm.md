@@ -1,9 +1,8 @@
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
+> [The mission of this studio is to make games that are both complete and satisfying experiences with fun at the forefront.]
 
-The mission of this studio is to make games that are both complete and satisfying experiences with fun at the forefront.
 ---
 
 ## Core Values
