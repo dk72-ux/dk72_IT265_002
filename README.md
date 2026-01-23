@@ -1,3 +1,3 @@
 # dk72_IT265_002
 
-//bweh this is a readme file
+A place to store assignments
