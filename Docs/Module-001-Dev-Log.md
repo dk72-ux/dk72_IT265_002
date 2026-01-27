@@ -18,10 +18,10 @@
   - Researched rogue-likes and other vampire survivors-esque games to figure out the game feel
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  N/A
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - The main issue I encountered was having too many ideas, so I wrote them down and eliminated options based on what I liked more compared to the others
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
