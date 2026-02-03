@@ -6,7 +6,7 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate -->
-- [ ] Goal 1: Figure out what kind of game I want to make
+- [ ] Goal 1: Figure out what kind of game I want to make~~
 - [ ] Goal 2: Come up with some concept art & do the appropriate research
 - [ ] Goal 3: Finalize what type of game I want to build
 - [ ] Goal 4: Block-out a crude build in Unity & figure out basic coding (get TA or prof assistance where needed)
@@ -16,6 +16,7 @@
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
   - Researched rogue-likes and other vampire survivors-esque games to figure out the game feel
+  - I've figured out how to set up a game space in Unity to get my desired game built using IT201 lessons
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
   -  N/A
