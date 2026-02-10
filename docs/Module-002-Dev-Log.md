@@ -13,22 +13,20 @@
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - Changed game idea to something more feasible & reasonable ... ie. turn-based gameplay instead of a rogue-like
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Figure out a "rock-paper-scissors" balancing system
+  - Figure out a three-class system to build around the balancing system
+  - Consider what abilities each class has & the number of abilities (pick what will make balance easy & fun)
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Settle on an idea & commit to it. Don't get lost in scope-creep
 
 #### Learnings
-- Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Rock-paper-scissor balancing
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Figure out the art direction
 <!--
 
 - Example prompts:
