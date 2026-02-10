@@ -27,6 +27,9 @@
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 - Figure out the art direction
+- Figure out immersion & mechanics
+- What would engage the player?
+- What should the soundscape be like?
 <!--
 
 - Example prompts:
@@ -38,4 +41,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Refine the idea of a turn-based game & figure out the art direction
