@@ -1,15 +1,14 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Daniel Kim
+### Module: IT265002
 
 <!-- Repeat the below as needed-->
 ### Date: [02/06/2026]
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate-->
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [ ] Goal 1: Continue workign on video game concepts
+- [ ] Goal 2: Consider turn-based balancing & game design
 
 
 #### Progress
