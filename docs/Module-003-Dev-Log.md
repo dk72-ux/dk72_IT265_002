@@ -1,6 +1,5 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 ## Name: Daniel Kim
-## Name: Daniel Kim
 ### Module: IT265002
 
 <!-- Repeat the below as needed-->
